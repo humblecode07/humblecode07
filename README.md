@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Currently a sophomore student.<br>An aspiring full-stack developer.</p>
+<p align="left">Currently a third-year college student.<br>An aspiring full-stack developer.</p>
 
 ###
 
